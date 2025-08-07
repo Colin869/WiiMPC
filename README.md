@@ -1,5 +1,11 @@
 # WiiMPC - Mii Pants Color Changer 🎨
 
+<div align="center">
+  <img src="logo.png" alt="WiiMPC Logo" width="300"/>
+  <br/>
+  <em>Customize your Miis like never before! 🎨</em>
+</div>
+
 A homebrew application for the Nintendo Wii that allows you to change the pants colors of your Mii characters. Customize your Miis with colors not available in the standard Wii Mii Channel!
 
 ## 🌟 Features
